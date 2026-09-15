@@ -1,0 +1,6 @@
+{
+  "name": "VonPips",
+  "description": "Institutional Forex Position and Lot Size Calculator with dynamic risk parameters and live pip value matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
